@@ -22,5 +22,23 @@
         "city": "Tokyo",
         "population": 4000000,
         "country": "Japan"
+    },
+    {
+        "pos": "5",
+        "city": "Moskva",
+        "population": 15000000,
+        "country": "Russia"
+    },
+    {
+        "pos": "6",
+        "city": "Munchen",
+        "population": 1000000,
+        "country": "Germany"
+    },
+    {
+        "pos": "8",
+        "city": "Ivanovo",
+        "population": 400000,
+        "country": "Russia"
     }
 ]
