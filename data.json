@@ -1,0 +1,26 @@
+[
+    {
+        "pos": "1",
+        "city": "Yaroslavl",
+        "population": 700000,
+        "country": "Russia"
+    },
+    {
+        "pos": "2",
+        "city": "Berlin",
+        "population": 1500000,
+        "country": "Germany"
+    },
+    {
+        "pos": "3",
+        "city": "London",
+        "population": 3000000,
+        "country": "England"
+    },
+    {
+        "pos": "4",
+        "city": "Tokyo",
+        "population": 4000000,
+        "country": "Japan"
+    }
+]
